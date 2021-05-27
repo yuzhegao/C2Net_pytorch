@@ -15,7 +15,7 @@ conda create --name c2net --file specf_c2net.txt
 
 ## Data Preparation
 
-The Data Preparations are following Guoxia Wang with his [DOOBNet](https://github.com/GuoxiaWang/DOOBNet). You should set the root path of the dataset (PIOD or BSDS) under ```data/```.
+The Data Preparations are following Guoxia Wang with his [DOOBNet](https://github.com/GuoxiaWang/DOOBNet). You should set the root path of the dataset to ```data/PIOD```, or set the dataset path in  ```experiments/configsPIOD_myUnet_kxt.yaml```.
 
 
 ## Training
