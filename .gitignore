@@ -1,0 +1,10 @@
+
+# dirs
+.idea
+
+DetectOcclusion/experiments/output
+DetectOcclusion/data
+
+# file types
+*.pyc
+*DS_Store
